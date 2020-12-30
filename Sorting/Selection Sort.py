@@ -1,7 +1,7 @@
 # Selection Sort Logic
 # 
-# Time Complexcity:     O(n2)
-# Space Complexcity:    O(1)
+# Time Complexity:     O(n2)
+# Space Complexity:    O(1)
 
 def SelectionSort(nums, array_len):
     for i in range(array_len):

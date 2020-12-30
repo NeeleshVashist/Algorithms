@@ -1,10 +1,10 @@
 # Bubble Sort Logic (Optimized Solution with break)
 # 
-# Time Complexcity:     
+# Time Complexity:     
 #       Worst Case:                 O(n2)
 #       Best Case(Already Sorted):  O(n)
 # 
-# Space Complexcity:                O(1)
+# Space Complexity:                O(1)
 
 def BubbleSort(nums, array_len):
     for i in range(array_len-1):
